@@ -1,4 +1,5 @@
 # Superstore Analysis Report
+![Screenshot 2024-12-11 164718](https://github.com/user-attachments/assets/8c694ff9-0003-415f-a280-fd3c0d5a1059)
 
 
 ## Project Overview
@@ -88,5 +89,10 @@ This project focuses on creating an interactive and insightful dashboard using P
   - Filters and slicers to dynamically explore data across categories and timeframes.  
 
 This dashboard aims to deliver actionable insights through a user-friendly and dynamic interface.  
+![Screenshot 2024-12-11 164809](https://github.com/user-attachments/assets/210a87a5-8ae5-43d8-add8-396334f2eb50)
+![Screenshot 2024-12-11 164900](https://github.com/user-attachments/assets/2de6b9bb-b8f1-4e99-80d6-85af64ba2ba4)
+![Screenshot 2024-12-11 164941](https://github.com/user-attachments/assets/b86bfc29-f9b1-471e-a4f9-ca3c44b345e5)
+
+**[Click here to access the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWYwMmI4OWQtYmY2MS00NGJhLTk4ZTItMDkzZjJjNDE5YzhjIiwidCI6ImY0M2MzMTgyLTcxZjAtNGRjOS04YjA0LTc0OTMwZTNmOGNkYSJ9)** 
 
 
