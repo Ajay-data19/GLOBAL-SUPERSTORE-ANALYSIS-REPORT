@@ -13,7 +13,7 @@ The superstore faces challenges in effectively leveraging its vast amounts of sa
 - The initial phase involved performing data cleaning tasks, such as removing null values, eliminating unnecessary columns, handling duplicates, and adjusting data types to ensure the data was well-prepared for analysis.
   
 - `Data Modeling`
-- The Next step was to create calculated measures and tables using DAX (Data Analysis Expressions) in Power BI, enhancing the dataset's analytical capabilities.
+- The Next step was to create calculated measures and columns using DAX (Data Analysis Expressions) in Power BI, enhancing the dataset's analytical capabilities.
 
 <pre><code>
 # Calculated Total Cost
@@ -95,4 +95,54 @@ This dashboard aims to deliver actionable insights through a user-friendly and d
 
 **[Click here to access the interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWYwMmI4OWQtYmY2MS00NGJhLTk4ZTItMDkzZjJjNDE5YzhjIiwidCI6ImY0M2MzMTgyLTcxZjAtNGRjOS04YjA0LTc0OTMwZTNmOGNkYSJ9)** 
 
+## Key Insights
+
+1. **Category Performance**  
+   - Technology category outperforms Furniture and Office Supplies in both sales and profit.  
+2. **Segment Dominance**  
+   - Consumer segment leads in both customer count and revenue, outperforming Corporate and Home Office segments.  
+3. **Regional Analysis**  
+   - **Top-performing regions by sales**: Central, South, North, Oceania, and Southeast Asia.  
+   - **Top-performing regions by profit**: Central, Central Asia, North, North Asia, and South.  
+   - **Underperforming regions**: Africa, EMEA, and Canada need strategic improvement.  
+4. **Country Trends**  
+   - **Top countries by sales**: USA, Australia, China, France, and Germany.  
+   - **Top countries by profit**: USA, China, India, Australia, and France.  
+   - Some countries report negative profit rates, highlighting areas for improvement.  
+5. **Sales and Profit Trends**  
+   - Year-over-year growth observed, with significant sales and profit spikes during specific periods.  
+6. **Customer Behavior**  
+   - Repeat Purchase Rate: 99.56%, indicating high customer retention.  
+   - Discounts positively correlate with sales, increasing purchase frequency.  
+   - Consumer segment has the highest customer count.  
+7. **Order Priority**  
+   - High and medium-priority orders account for 60% of total orders.  
+8. **Purchase Value**  
+   - Technology category has a high average purchase value (50%).  
+   - Office Supplies category has a low average purchase value (12%).  
+
+---
+
+## Recommendations
+1. **Focus on Technology Category**  
+   - Expand offerings to maintain dominance.  
+2. **Boost Office Supplies**  
+   - Introduce bundle deals or premium product options to increase average purchase value.  
+3. **Target Underperforming Segments**  
+   - Create campaigns and incentives for Corporate and Home Office segments.  
+4. **Regional Strategy Improvements**  
+   - Focus efforts on high-potential regions like APAC, EU, and the US.  
+   - Address performance gaps in Africa, EMEA, and Canada.  
+5. **Address Negative Profit Rates**  
+   - Investigate inefficiencies or pricing issues in countries with negative profit rates.  
+6. **Capitalize on Trends**  
+   - Leverage sales spikes for seasonal marketing campaigns.  
+   - Increase discounts during specific months to boost sales further.  
+7. **Enhance Loyalty Programs**  
+   - Strengthen personalized experiences to maintain a high repeat purchase rate.  
+8. **Optimize Order Priority**  
+   - Streamline supply chain to increase high-priority order fulfillment.  
+9. **Innovate Products and Packaging**  
+   - Develop attractive product options for low-performing categories.  
+   - Continue innovating popular packaging formats.  
 
