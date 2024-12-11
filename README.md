@@ -1,4 +1,4 @@
-# Superstore Analysis Report
+# GLOBAL SUPERSTORE ANALYSIS REPORT
 ![Screenshot 2024-12-11 164718](https://github.com/user-attachments/assets/8c694ff9-0003-415f-a280-fd3c0d5a1059)
 
 
