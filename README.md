@@ -97,52 +97,92 @@ This dashboard aims to deliver actionable insights through a user-friendly and d
 
 ## Key Insights
 
-1. **Category Performance**  
-   - Technology category outperforms Furniture and Office Supplies in both sales and profit.  
-2. **Segment Dominance**  
-   - Consumer segment leads in both customer count and revenue, outperforming Corporate and Home Office segments.  
-3. **Regional Analysis**  
-   - **Top-performing regions by sales**: Central, South, North, Oceania, and Southeast Asia.  
-   - **Top-performing regions by profit**: Central, Central Asia, North, North Asia, and South.  
-   - **Underperforming regions**: Africa, EMEA, and Canada need strategic improvement.  
-4. **Country Trends**  
-   - **Top countries by sales**: USA, Australia, China, France, and Germany.  
-   - **Top countries by profit**: USA, China, India, Australia, and France.  
-   - Some countries report negative profit rates, highlighting areas for improvement.  
-5. **Sales and Profit Trends**  
-   - Year-over-year growth observed, with significant sales and profit spikes during specific periods.  
-6. **Customer Behavior**  
-   - Repeat Purchase Rate: 99.56%, indicating high customer retention.  
-   - Discounts positively correlate with sales, increasing purchase frequency.  
-   - Consumer segment has the highest customer count.  
-7. **Order Priority**  
-   - High and medium-priority orders account for 60% of total orders.  
-8. **Purchase Value**  
-   - Technology category has a high average purchase value (50%).  
-   - Office Supplies category has a low average purchase value (12%).  
+- **Category Dominance**:  
+  I observed that the "Technology" category significantly outperforms both "Furniture" and "Office Supplies" in terms of both sales and profit. Prioritizing this category can amplify growth.  
+- **Segment Trends**:  
+  The **Consumer segment** leads across all metrics, overshadowing the Corporate and Home Office segments. This indicates a strong preference and engagement from individual buyers.  
+- **Regional Performance**:  
+  - Top-performing regions by **sales**: Central, South, North, Oceania, and Southeast Asia.  
+  - Top-performing regions by **profit**: Central, Central Asia, North, North Asia, and South.  
+  - Regions such as **Africa, EMEA, and Canada** underperform, requiring immediate attention.  
+- **Country Highlights**:  
+  - **Top sales contributors**: USA, Australia, China, France, and Germany.  
+  - **Top profit generators**: USA, China, India, Australia, and France.  
+  - I noticed some countries showing negative profit rates, which is a concerning trend that needs investigation.  
+- **Sales Trends**:  
+  Year-over-year analysis reveals consistent sales and profit growth, with distinct spikes during specific months.  
+- **Customer Behavior**:  
+  - Repeat Purchase Rate: An impressive 99.56%, demonstrating exceptional customer loyalty.  
+  - Discounts show a strong positive correlation with increased purchase frequency, particularly during promotional periods.  
+- **Order Prioritization**:  
+  High and medium-priority orders make up 60% of all orders, highlighting opportunities to optimize logistics for these categories.  
+- **Purchase Value Analysis**:  
+  - Technology boasts a high **average purchase value** (50%), while Office Supplies lag behind at 12%.  
+
+## Recommendations
+1. **Prioritize Technology**:  
+   - I recommend channeling more resources into the Technology category to maintain its dominance and capitalize on its high profit margins.  
+2. **Boost Underperforming Segments**:  
+   - Develop targeted marketing strategies and promotions for the Corporate and Home Office segments to bridge the performance gap.  
+3. **Regional Expansion**:  
+   - Focus on bolstering sales strategies in high-potential regions such as APAC, EU, and the US. Simultaneously, address inefficiencies in underperforming regions like Africa, EMEA, and Canada through localized campaigns.  
+4. **Address Negative Profit Rates**:  
+   - Investigate the causes behind negative profit rates in certain countries and implement corrective measures such as pricing adjustments or operational optimizations.  
+5. **Leverage Sales Spikes**:  
+   - I noticed distinct sales spikes in specific months. Launch well-timed marketing campaigns and seasonal discounts to maximize revenue during these periods.  
+6. **Optimize Discounts and Promotions**:  
+   - Since discounts strongly correlate with increased sales, continue using this strategy, especially during low-demand periods.  
+7. **Strengthen Customer Loyalty**:  
+   - Enhance loyalty programs and personalized offers to maintain the high repeat purchase rate and attract new customers.  
+8. **Enhance Order Fulfillment**:  
+   - Streamline the supply chain for high and medium-priority orders to meet customer expectations more efficiently.  
+9. **Increase Purchase Value**:  
+   - Introduce bundled deals or premium options in the Office Supplies category to raise its average purchase value.  
+10. **Foster Continuous Innovation**:  
+     - Regularly introduce new product variations and packaging innovations, especially in high-performing categories, to keep customers engaged.  
+
+## Limitation and Challenges
+`Absence of Demographic Data`
+
+The dataset lacked demographic columns such as gender, age group, or income level, making it challenging to perform customer segmentation or identify key target groups. This gap limits the depth of insights that can be derived about customer behavior and preferences.
+
+`Effective Presentation` 
+
+Presenting the findings in the most suitable and effective manner required careful consideration.
+
+`Strategic Recommendations`
+
+Despite a strong understanding of the business, crafting actionable suggestions for business growth demanded thoughtful analysis.
+
+## Learnings
+`Data Organization`
+
+Despite the limited dataset, the data's organization and informativeness became evident during this analysis.
+
+`Data Visualization`
+
+Overcoming the challenge of presenting outcomes was achieved through applying knowledge of data visualization techniques and learning new methods.
+
+`Strategic Insights`
+
+Leveraging my profound business understanding and investing time in strategic thinking led to valuable insights, connecting important dots within the data.
+
+## Additional Information
+- **Cleaned Dataset**: The full cleaned dataset is uploaded in the main section for reference and further analysis.
+- **Interactive Dashboard**: You can access the interactive dashboard through the link provided in the 'Dashboard' section of this README file.
+
+## Tech Stack
+Project relies on the following key technologies:
+
+- `Power BI Desktop` Design, visualization, and interactive reporting.
+- `DAX (Data Analysis Expressions)` Creation of calculations and measures supporting data visualizations.
+- `Power Query` Clean and transform raw data into a structured format.
+
+## License
+This project is licensed under the MIT License, allowing you to use, modify, and distribute the code and visuals while maintaining the original license terms.
 
 ---
 
-## Recommendations
-1. **Focus on Technology Category**  
-   - Expand offerings to maintain dominance.  
-2. **Boost Office Supplies**  
-   - Introduce bundle deals or premium product options to increase average purchase value.  
-3. **Target Underperforming Segments**  
-   - Create campaigns and incentives for Corporate and Home Office segments.  
-4. **Regional Strategy Improvements**  
-   - Focus efforts on high-potential regions like APAC, EU, and the US.  
-   - Address performance gaps in Africa, EMEA, and Canada.  
-5. **Address Negative Profit Rates**  
-   - Investigate inefficiencies or pricing issues in countries with negative profit rates.  
-6. **Capitalize on Trends**  
-   - Leverage sales spikes for seasonal marketing campaigns.  
-   - Increase discounts during specific months to boost sales further.  
-7. **Enhance Loyalty Programs**  
-   - Strengthen personalized experiences to maintain a high repeat purchase rate.  
-8. **Optimize Order Priority**  
-   - Streamline supply chain to increase high-priority order fulfillment.  
-9. **Innovate Products and Packaging**  
-   - Develop attractive product options for low-performing categories.  
-   - Continue innovating popular packaging formats.  
+For questions or feedback, please contact: ajaysonkatar@gmail.com
 
+Enjoy exploring the project!
